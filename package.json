@@ -1,0 +1,16 @@
+{
+  "name": "lazy-route-schematics",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Minko Gechev <mgechev@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "@angular-devkit/core": "^7.1.4",
+    "@angular-devkit/schematics": "^7.1.4",
+    "typescript": "^3.2.2"
+  }
+}
